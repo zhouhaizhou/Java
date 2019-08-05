@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FunDemo2",
+            "request": "launch",
+            "mainClass": "day04.FunDemo2",
+            "projectName": "java0218_901a8d05"
+        }
+    ]
+}

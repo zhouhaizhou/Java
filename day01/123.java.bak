@@ -1,0 +1,7 @@
+class Demo
+{
+	public static void main(String[] args)
+	{
+		System.out.println("加了ln，打印之后就会换行    另外javac命令是将java源码程序编译成计算机能读懂的.class文件，让后通过java命令进行运行");
+	}
+}
